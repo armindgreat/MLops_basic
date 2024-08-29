@@ -6,11 +6,13 @@ src/MLops_project.egg-info/SOURCES.txt
 src/MLops_project.egg-info/dependency_links.txt
 src/MLops_project.egg-info/top_level.txt
 src/MLops_project/components/__init__.py
+src/MLops_project/components/data_ingestion.py
 src/MLops_project/config/__init__.py
 src/MLops_project/config/configuration.py
 src/MLops_project/constants/__init__.py
 src/MLops_project/entity/__init__.py
 src/MLops_project/entity/config_entity.py
 src/MLops_project/pipeline/__init__.py
+src/MLops_project/pipeline/stage_01_data_ingestion.py
 src/MLops_project/utils/__init__.py
 src/MLops_project/utils/common.py
