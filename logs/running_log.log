@@ -240,3 +240,11 @@ x==========x]
 [2024-08-30 02:21:53,214: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
 
 x==========x]
+[2024-08-30 09:53:54,583: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-08-30 09:53:54,598: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-30 09:53:54,615: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-08-30 09:53:54,617: INFO: common: created directory at: artifacts]
+[2024-08-30 09:54:20,085: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-08-30 09:54:20,088: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-08-30 09:54:20,095: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-08-30 09:54:20,098: INFO: common: created directory at: artifacts]
