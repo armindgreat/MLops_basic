@@ -22,3 +22,8 @@ pip install -r requirements.txt
 7. update the pipeline
 8. update the main.py
 9. update the app.py
+
+
+'''bash
+    Open ur local host 0.0.0.0:8080
+'''
