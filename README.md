@@ -13,6 +13,7 @@ pip install -r requirements.txt
 '''
 
 # Workflows
+
 1. update config.yaml
 2. update schema.yaml
 3. update params.yaml
@@ -23,7 +24,8 @@ pip install -r requirements.txt
 8. update the main.py
 9. update the app.py
 
+# User App
 
-'''bash
-    Open ur local host 0.0.0.0:8080
-'''
+Run python main.py
+Run python app.py
+Open ur local host 0.0.0.0:8080
