@@ -26,6 +26,6 @@ pip install -r requirements.txt
 
 # User App
 
-Run python main.py
-Run python app.py
-Open ur local host 0.0.0.0:8080
+1. Run python main.py
+2. Run python app.py
+3. Open ur local host 0.0.0.0:8080
